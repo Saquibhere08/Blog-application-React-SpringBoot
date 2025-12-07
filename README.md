@@ -20,7 +20,6 @@ Full-stack **Blog Application** built with **React** (frontend) and **Spring Boo
 - [Testing](#testing)
 - [Build & Deploy](#build--deploy)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ---
@@ -195,10 +194,6 @@ npm run build
 ## Contributing
 
 Contributions are welcome!
-
-## License
-
-MIT License
 
 ## Acknowledgements
 
